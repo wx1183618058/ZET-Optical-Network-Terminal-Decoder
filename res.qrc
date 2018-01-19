@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>zte_logo.ico</file>
+    </qresource>
+    <qresource prefix="/language">
+        <file>chinese.qm</file>
+        <file>qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
