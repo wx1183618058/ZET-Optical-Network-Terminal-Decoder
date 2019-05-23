@@ -5,6 +5,7 @@
 #include <QMimeData>
 #include <QDropEvent>
 #include <QTranslator>
+#include <QAction>
 #include <QSignalMapper>
 #include <QEvent>
 #include "cfgfile.h"
